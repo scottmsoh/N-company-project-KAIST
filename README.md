@@ -4,7 +4,9 @@
 --- 
 * **Project objectives**
 
-  ▶ Define several hypothetic contents with employees to leverage business profit by developing new marketing strategy
+  ▶ Define several hypothetic contents with employees to leverage business profit 
+  
+     by developing new marketing strategy
 
    * When do free users usually switch to paid users? (ex: dawn, day, weekdays, weekends)
         
