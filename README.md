@@ -2,6 +2,8 @@
 # N company project 
 ### Conducted project on Sep 2016 – Dec 2016 in KAIST
 --- 
+
+
 * **Project objectives**
 
   ▶ Define several hypothetic contents with employees to leverage business profit 
